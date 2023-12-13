@@ -88,7 +88,7 @@ header .containers label i {
 .hero-text h1 {
     color: black;
     font-size: 4rem;
-    padding-bottom: 2%;
+    padding-bottom: 3em;
     font-weight: bold;
     word-wrap: break-word;
     break-after: always;
